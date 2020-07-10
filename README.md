@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently working as a software developer. Studied Computer Engineering and Information Systems on Pablo de Olavide university. You can find me on [Linkedin](https://www.linkedin.com/in/anderlakidain/) or contact with me on lakidainander@gmail.com
 
 <!--
 **lakidain/lakidain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
