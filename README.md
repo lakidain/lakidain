@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://qph.fs.quoracdn.net/main-qimg-b57cf47c44928a141ab6b834385b8667">
+<img src="https://qph.fs.quoracdn.net/main-qimg-b57cf47c44928a141ab6b834385b8667" />
 </p>
+
 Currently working as a software developer. Studied Computer Engineering and Information Systems on Pablo de Olavide university. You can find me on [Linkedin](https://www.linkedin.com/in/anderlakidain/) or contact with me on lakidainander@gmail.com
 
 <!--
