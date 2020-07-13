@@ -2,7 +2,12 @@
 <img src="https://i.pinimg.com/originals/60/13/7a/60137a1f4da819d2c01b64f5bca7b79d.jpg" />
 </p>
 
-Currently working as a software developer. Studied Computer Engineering and Information Systems on Pablo de Olavide university. You can find me on [Linkedin](https://www.linkedin.com/in/anderlakidain/) or contact with me on lakidainander@gmail.com
+Currently working as a software developer. Studied Computer Engineering and Information Systems on Pablo de Olavide university. You can find me on:
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/anderlakidain/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "mailto:lakidainander@gmail.com"><img src="https://img.icons8.com/metro/26/000000/email.png"/></a>
+</p>
 
 <table align="center"><tr><td valign="top">
 
