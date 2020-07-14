@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/60/13/7a/60137a1f4da819d2c01b64f5bca7b79d.jpg" />
+<img src = "https://github.com/lakidain/lakidain/blob/master/Particles.gif">
 </p>
 
 Currently working as a software developer. Studied Computer Engineering and Information Systems on Pablo de Olavide university. You can find me on:
