@@ -2,7 +2,7 @@
 <img src = "https://github.com/lakidain/lakidain/blob/master/Particles.gif">
 </p>
 
-Currently working as a software developer. Studied Computer Engineering and Information Systems on Pablo de Olavide university. You can find me on:
+Currently working as a software developer. Studied Computer Science on Pablo de Olavide university. You can find me on:
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/anderlakidain/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
