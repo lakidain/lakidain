@@ -5,9 +5,9 @@
 Currently working as a software engineer. Studied Computer Science on Pablo de Olavide university. You can find me on:
 
 <p align="center">
-<a href= "https://lakidain.github.io/"><img src="https://img.icons8.com/ios/30/000000/web.png"/></a>&nbsp;&nbsp;
-<a href= "https://www.linkedin.com/in/anderlakidain/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>&nbsp;&nbsp;
-<a href= "mailto:lakidainander@gmail.com"><img src="https://img.icons8.com/metro/26/000000/email.png"/></a>
+<a href= "https://lakidain.github.io/"><img src="https://img.icons8.com/ios-filled/30/ffffff/web.png"/></a>&nbsp;&nbsp;
+<a href= "https://www.linkedin.com/in/anderlakidain/"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>&nbsp;&nbsp;
+<a href= "mailto:lakidainander@gmail.com"><img src="https://img.icons8.com/metro/26/ffffff/email.png"/></a>
 </p>
 
 <!--
